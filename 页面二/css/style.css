@@ -1,0 +1,267 @@
+.div1{
+    background-color: hotpink;border-radius: 35px;
+}
+.div2{
+    background-color: white;
+    height: 18px;
+    padding-top:2px ; padding-bottom: 2px;
+    font-size: 12px;
+    margin: 0px;
+}
+
+.div3{
+    background-color: white;
+    margin-top: 30px;margin-bottom: 30px;
+    margin-left: 70px;margin-right: 70px;
+    border-radius: 30px;
+    font-size:25px;
+    height: 110px;
+}
+
+.div4{
+    margin-top: 30px;margin-bottom: 30px;
+    margin-left: 70px;margin-right: 70px;
+    height: 110px;
+    
+}
+
+
+.div5{
+    margin-top: 30px;margin-bottom: 30px;
+    margin-left: 70px;margin-right: 70px;
+    height: 110px;
+}
+
+
+
+
+.div5{
+    float: left;
+    background-color: white;
+    margin: 21px;
+    width: 20px;
+    height: 110px;
+    text-align: center;
+}
+
+.div6{  
+     float: left;
+    background-color:white;
+    margin: 20px;
+    height: 110px;
+   width: 110px;
+   text-align: center;
+}
+
+
+
+.div7{
+    margin-top: 70px;margin-bottom: 30px;
+    margin-left: 70px;margin-right: 70px;
+    height: 110px;
+    }
+
+
+.div8{float: left;
+    background-color: white;
+    height: 110px;
+    width:210px;
+    margin-top:0px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+.div9{background-color: green;
+width: 15px;
+height: 110px;}
+
+.div10{
+    background-color: green;
+    width: 80px;
+    height: 80px;
+    float: right;
+    position: relative; top: -95px; 
+}
+
+
+.div11{background-color: blue;
+    width: 15px;
+    height: 110px;}
+    
+    .div12{
+        background-color: blue;
+        width: 80px;
+        height: 80px;
+        float: right;
+        position: relative; top: -95px; 
+    }
+    
+
+    .div13{background-color: orange;
+        width: 15px;
+        height: 110px;}
+        
+        .div14{
+            background-color:orange;
+            width: 80px;
+            height: 80px;
+            float: right;
+            position: relative; top: -95px; 
+        }
+        
+        
+.div15{background-color: yellow;
+    width: 15px;
+    height: 110px;}
+    
+    .div16{
+        background-color: yellow;
+        width: 80px;
+        height: 80px;
+        float: right;
+        position: relative; top: -95px; 
+    }
+    
+
+ 
+
+.img1{
+    height: 40px; position: relative;left: 25px; top: 3px;
+}
+
+.img2{
+    height: 70px;width: 70px; border-radius: 35px;
+}
+
+.img3{ height: 20px;
+}
+
+
+.form1{ float: right; position: relative; top: 10px;right: 250px;}
+
+
+  
+.button1 {
+    float: right;
+    font-size: 17px;
+    cursor: pointer;
+    border:2px solid; border-color: rgb(173, 6, 6);
+  }
+  
+.button2{
+    height: 35px;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    float: right;
+    cursor: pointer;
+    position: relative; top: 5px; right: -30px;
+}
+
+.button3{
+    font-size: 17px;
+    color: blue;
+    position: relative; top: 25px;
+}
+
+/* 列容器 */
+.row {  
+    display:flexbox; 
+    display: flex;
+  
+}
+ 
+/* 创建两个列 */
+.side {
+   width: 10%;
+    background-color: #f18adb;
+    margin-left: 20px;
+}
+ 
+.main {   
+    width: 90%;
+    background-color: lightgray;
+    margin-right: 20px;}
+
+.text1{    font-size: 50px;
+    color: white;}
+    
+
+
+.table1{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
+.red{color: red}
+  
+.h1{ text-size-adjust: 12px;
+margin-left: 70px;}
+
+
+
+
+/*下面是表格*/
+
+.div17{    margin-top: 20px;margin-bottom: 30px;
+    margin-left: 70px;margin-right: 10px;
+    border-radius: 20px;
+   background-color: white;
+   width: 700px;
+   height: 400px;
+   float: left;
+}
+
+.div18{
+     background-color: rgb(109, 109, 109);
+    height:25px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.div19{
+    border-collapse: collapse;
+    border-style:solid;
+    border-color: black;
+    border-width:1.5px;
+    width:60px;
+    float: left;
+    margin-top: 18px;
+    margin-left: 3px; 
+    text-align: center; 
+background-color: rgb(214, 210, 210); }
+
+
+.div20{ margin: 5px 140px;}
+
+
+.div21{
+    border-collapse: collapse;
+    border-style:solid;
+    border-color: rgb(134, 127, 127);
+    border-width:2px;
+    margin:44px 45px;
+    padding: 40px;
+}
+
+.table1{ 
+    border-style:solid;
+    border-color: rgb(0, 0, 0);
+    border-width:1px;
+    color:black;
+    width: 520px;
+}
+
+.div22{margin-top: 20px;margin-bottom: 30px;
+    margin-left: 70px;margin-right: 10px;
+    border-radius: 20px;
+   background-color: white;
+   width: 300px;
+   height: 400px;
+   float: left;
+}
